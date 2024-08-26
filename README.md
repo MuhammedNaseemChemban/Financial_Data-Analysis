@@ -32,4 +32,18 @@ This repository contains a Power BI project featuring a sample financial dataset
 - **Drillthroughs**: Access detailed data by selecting elements in visuals.
 - **Tooltips**: View additional details by hovering over data points.
 
+  1.	Clone the Repository
+bash<br/>
+Copy code<br/>
+git clone https://github.com/MuhammedNaseemChemban/Financial_Data-Analysis.git<br/>
+2.	Open Power BI File<br/>
+Navigate to the analysis/ folder and open the Power BI workbook to review and interact with the analysis.<br/>
+3.	Explore the Analysis<br/>
+###### Contributing
+Contributions are welcome! If you have suggestions, improvements, or questions, please feel free to open an issue or submit a pull request.<br/>
+Contact<br/>
+For questions or further information, contact me at:<br/>
+•	Email: muhammednaseemchemban@gmail.com<br/>
+•	GitHub Profile: MuhammedNaseemChemban<br/>
+
 
