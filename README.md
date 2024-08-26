@@ -4,8 +4,8 @@
 This repository contains a Power BI project featuring a sample financial dataset and an interactive report. The project showcases various visualizations and insights from financial data.
 
 ## Files
-- `FinancialData.csv`: Contains financial data with columns including Segment, Country, Product, Discount Band, Units Sold, Manufacturing Price, Sale Price, Gross Sales, Discounts, Sales, Cost of Goods Sold, Profit, and Date.
-- `FinancialDashboard.pbix`: Power BI report file with interactive visualizations based on the dataset.
+- `Table Contains financial data with columns including Segment, Country, Product, Discount Band, Units Sold, Manufacturing Price, Sale Price, Gross Sales, Discounts, Sales, Cost of Goods Sold, Profit, and Date.
+- `Financial_Sample.pbix`: Power BI report file with interactive visualizations based on the dataset.
 
 ## Data Columns
 - **Segment**: Business segment
