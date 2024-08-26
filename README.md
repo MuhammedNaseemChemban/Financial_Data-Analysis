@@ -24,7 +24,7 @@ This repository contains a Power BI project featuring a sample financial dataset
 
 ## Usage
 1. **Download the Files**: Clone or download the repository to your local machine.
-2. **Open the Power BI Report**: Open `FinancialDashboard.pbix` in Power BI Desktop to view and interact with the report.
+2. **Open the Power BI Report**: Open `Financial_Sample.pbix` in Power BI Desktop to view and interact with the report.
 
 ## Interactivity
 - **Slicers**: Filter data by Date,Segment,Discount Band, etc.
